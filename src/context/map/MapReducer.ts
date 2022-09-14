@@ -1,4 +1,5 @@
-/* eslint import/no-webpack-loader-symtax: off */
+/* eslint import/no-webpack-loader-syntax: off */
+
 //@ts-ignore
 import { Map, Marker } from "!mapbox-gl";
 import { IMapState } from "./MapProvider";

@@ -1,4 +1,5 @@
-/* eslint import/no-webpack-loader-symtax: off */
+/* eslint import/no-webpack-loader-syntax: off */
+
 
 import { createContext } from "react"
 //@ts-ignore

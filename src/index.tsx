@@ -1,4 +1,4 @@
-/* eslint import/no-webpack-loader-symtax: off */
+/* eslint import/no-webpack-loader-syntax: off */
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './styles.css';
